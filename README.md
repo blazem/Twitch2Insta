@@ -21,3 +21,13 @@ FFmpeg
 Streamlink
 
 Git
+
+
+Mac:
+
+brew install ffmpeg streamlink
+
+Ubuntu:
+
+sudo apt install ffmpeg
+pip install streamlink
